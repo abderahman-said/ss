@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42.091" height="49.922" viewBox="0 0 42.091 49.922">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.15" y1="1.029" x2="0.949" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd03f"/>
+      <stop offset="0.2" stop-color="#fcc939"/>
+      <stop offset="0.46" stop-color="#f5b82a"/>
+      <stop offset="0.77" stop-color="#ea9c12"/>
+      <stop offset="0.9" stop-color="#e58e06"/>
+      <stop offset="1" stop-color="#df8800"/>
+    </linearGradient>
+  </defs>
+  <g id="real-estate" transform="translate(-2 -2)">
+    <path id="Union_3" data-name="Union 3" d="M25.553,49.922V36.549a.83.83,0,0,0-.751-.891H17.286a.831.831,0,0,0-.751.891V49.922H6.013V32.251l15.031-10.97L36.076,32.254V49.922ZM.225,31.244a1.98,1.98,0,0,1,.493-2.452L20.258,14.529a1.3,1.3,0,0,1,1.575,0L41.375,28.792a1.982,1.982,0,0,1,.493,2.452,1.377,1.377,0,0,1-2.07.584L21.045,18.139,2.292,31.829a1.331,1.331,0,0,1-.788.265A1.462,1.462,0,0,1,.225,31.244ZM0,19.876,20.06,5.235a1.628,1.628,0,0,1,1.953-.013L28.27,9.675l4.223-5.01L29.38.971c-.3-.359-.088-.971.338-.971h9.365V11.108c0,.506-.516.759-.817.4L35.15,7.815l-5.261,6.24a1.665,1.665,0,0,1-2.3.336L21.057,9.738,0,25.109Z" transform="translate(2 2)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

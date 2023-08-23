@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.895" height="17.747" viewBox="0 0 16.895 17.747">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path1689" d="M0-682.665H16.9v17.747H0Z" transform="translate(0 680.515)" fill="#c9b9d5"/>
+    </clipPath>
+  </defs>
+  <g id="g1683" transform="translate(0 684.814)">
+    <g id="g1685" transform="translate(0 -682.665)">
+      <g id="g1687" clip-path="url(#clip-path)">
+        <g id="g1693" transform="translate(4.631 0.609)">
+          <path id="path1695" d="M-411.812-334.837a5.155,5.155,0,0,0,.729-2.65,5.179,5.179,0,0,0-5.179-5.179,5.179,5.179,0,0,0-5.179,5.179,5.179,5.179,0,0,0,5.179,5.179,5.158,5.158,0,0,0,2.224-.5" transform="translate(421.442 342.666)" fill="none" stroke="#c9b9d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+        <g id="g1697" transform="translate(9.809 3.046)">
+          <path id="path1699" d="M-107.619-70.624a2.743,2.743,0,0,0-2.516-1.651" transform="translate(110.136 72.276)" fill="none" stroke="#c9b9d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+        <g id="g1701" transform="translate(0.609 8.967)">
+          <path id="path1703" d="M-214.973,0c-1.762,1.382-3.471,2.743-3.825,3.1l-.844.844a1.219,1.219,0,0,0,0,1.723,1.219,1.219,0,0,0,1.723,0l.844-.844c.345-.345,1.64-1.983,2.979-3.7" transform="translate(219.999)" fill="none" stroke="#c9b9d5" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
